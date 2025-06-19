@@ -1,4 +1,5 @@
 # 使用文档
+> 一个连接模型与仿真环境的示例。
 > 需额外克隆`wbvima`和`robocasa`仓库并安装环境。
 1. `split_hdf5_dataset.py`
 
